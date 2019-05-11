@@ -10,8 +10,7 @@ namespace RasaMotorsManagementSystem.Common
     {
 
         private static string connectionString = "Data Source=DESKTOP-T0HOCLV;Initial Catalog=ServiceCenterManagementDB;Integrated Security=True";
-
-        public static string ConnectionString
+         public static string ConnectionString
         {
             get
             {
